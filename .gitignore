@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache and bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables (Crucial for security)
+.env
+
+# Databases (if using local SQLite)
+*.postgresql
+*.db
+
