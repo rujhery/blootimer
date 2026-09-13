@@ -1,0 +1,9 @@
+[project]
+name = "blootimer"
+version = "0.1.0"
+
+[tool.setuptools.package-dir]
+""="blootimer/src"
+
+[project.scripts]
+blootimer = "main:main"
