@@ -13,7 +13,7 @@ __pycache__/
 # Environment variables (Crucial for security)
 .env
 
-# Databases (if using local SQLite)
+# Databases
 *.postgresql
 *.db
 
