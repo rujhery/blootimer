@@ -10,7 +10,7 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Environment variables (Crucial for security)
+# Environment variables
 .env
 
 # Databases
