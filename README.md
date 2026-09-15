@@ -3,12 +3,12 @@
 
  **A simple program focused in popular time managent methods. 
 
-**Blootimer starts a countdown for:
+**Blootimer can start a countdown for:
  * **25-5 (pomodoro technique)
  * **50-10 (deep work)
  * **90-20 (ultradian rhythm method) rules. 
 
- **Blootimer is ideal for studying, worrking, etc.
+ **Blootimer is ideal for studying, working, etc.
 
 ## What technologies were used?
 
