@@ -41,7 +41,7 @@ def main():
                 time.sleep(60)
             print("\nfinished")
 
-            for a in track(range(5, 0, -1), description="break"):
+            for a in track(range(10, 0, -1), description="break"):
                 os.system("clear")
                 print(f"left {a} minutes", end="\r")
                 time.sleep(60)
@@ -58,7 +58,7 @@ def main():
                 time.sleep(60)
             print("\nfinished")
 
-            for a in track(range(5, 0, -1), description="Break"):
+            for a in track(range(20, 0, -1), description="Break"):
                 os.system("clear")
                 print(f" {a} minute rest ", end="\r")
                 time.sleep(60)
