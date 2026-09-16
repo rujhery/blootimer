@@ -1,4 +1,4 @@
-# **Blootimer
+# **Blootimer**
 ##  what is it?
 
  **A simple program focused in popular time managent methods. 
