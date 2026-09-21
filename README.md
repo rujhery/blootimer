@@ -6,7 +6,7 @@
 **Blootimer can start a countdown for:**
  * 25-5 (pomodoro technique)
  * 50-10 (deep work)
- * 90-20 (ultradian rhythm method) rules. 
+ * 90-20 (ultradian rhythm method) 
 
  **Blootimer is ideal for studying, working, etc.**
 

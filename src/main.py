@@ -1,5 +1,5 @@
-import time
 import os
+import time
 from rich.progress import track
 # import curses, It's still in progress
 
