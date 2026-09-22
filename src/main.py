@@ -14,9 +14,9 @@ def main():
         option = input("write pomo, deep or rhythm: ")
 
         if option == "pomo":
-            # for i in range(3, 0, -1):
-            #     print(f" 25-minute countdown begin in {i} seconds", end="\r")
-            #     time.sleep(1)
+            for i in range(3, 0, -1):
+                print(f" 25-minute countdown begin in {i} seconds", end="\r")
+                time.sleep(1)
 
             for e in track(range(time1, 0, -1), description="Processing..."):
                 os.system("clear")
