@@ -15,4 +15,5 @@
 - [Python](https://www.python.org/)
 - [RIch module](https://rich.readthedocs.io/en/latest/introduction.html)
 
+<<<<<<< HEAD
 ## Adapted to me xd
