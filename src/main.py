@@ -11,9 +11,9 @@ time3 = 90
 def main():
 
     try:
-        option = input("write pomo, deep ,rhythm or countdown: ")
+        option = input("write pomo(1), deep(2) ,rhythm(3) or countdown(0): ")
 
-        if option == "pomo":
+        if option == "pomo" or option == "1":
             for i in range(3, 0, -1):
                 print(f" 25-minute countdown begin in {i} seconds", end="\r")
                 time.sleep(1)
@@ -45,7 +45,7 @@ def main():
             notification("Blootimer", "Your pomos have finished executing")
 
 
-        elif option == "deep":
+        elif option == "deep" or option == "2":
             for i in range(3, 0, -1):
                 print(f" 50-10 minute countdown begin in {i} seconds", end="\r")
                 time.sleep(1)
@@ -77,7 +77,7 @@ def main():
 
 
   
-        elif option == "rhythm":
+        elif option == "rhythm" or option == "3":
             for i in range(3, 0, -1):
                 print(f" 90-20 minute countdown begin in {i} seconds", end="\r")
                 time.sleep(1)
@@ -108,7 +108,7 @@ def main():
             notification("Blootimer", "Your rhythm have finished executing")
 
 
-        elif option == "countdown":
+        elif option == "countdown" or option == "0":
             for i in range(3, 0, -1):
                 print(f"  countdown begin in {i} seconds", end="\r")
                 time.sleep(1)

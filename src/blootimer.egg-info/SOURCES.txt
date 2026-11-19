@@ -1,4 +1,3 @@
-LICENSE
 README.md
 pyproject.toml
 src/main.py
@@ -7,3 +6,4 @@ src/blootimer.egg-info/SOURCES.txt
 src/blootimer.egg-info/dependency_links.txt
 src/blootimer.egg-info/entry_points.txt
 src/blootimer.egg-info/top_level.txt
+test/testy.py
